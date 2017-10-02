@@ -1,0 +1,48 @@
+Generation-01_Christian Rapp
+Generation-01_Edzo Bindels
+Generation-01_Christophe Cornubert
+Generation-01_Matthias Sauerbruch
+Generation-01_Kees Christiaanse
+Generation-01_Yushi Uehara
+Generation-01_Zaha Hadid
+Generation-01_Laurinda Spear
+Generation-01_Ruurd Roorda
+Generation-01_Williem Jan Neutelings
+Generation-01_Winy Maas
+Generation-01_Jacob Van Rijs
+Generation-01_Sarah Whiting
+Generation-01_Ron Witte
+Generation-01_Mike Guyer
+Generation-01_Alejandro Zaera Polo
+Generation-01_Luc Reuse
+Generation-01_Farshid Moussavi
+Generation-01_Rients Dijkstra
+Generation-02_Jeffery Inaba
+Generation-02_Xaveer de Geyter
+Generation-02_Amale Andraos
+Generation-02_Dan Wood
+Generation-02_Juliette Bekkering
+Generation-02_John Mcmorrough
+Generation-02_Matthias Hollwich
+Generation-02_Jeanne Gang
+Generation-02_Fernando Romero
+Generation-02_Markus Schaefer
+Generation-02_Zachary R.Heineman
+Generation-02_Joshua Prince-Ramus
+Generation-02_Erez Ella
+Generation-02_Bjarke Ingels
+Generation-02_Julien De Smedt
+Generation-02_Patrick Louwere
+Generation-02_Bart Eijking
+Generation-02_Ole Scheeren
+Generation-02_Eric Chang
+Projects-01_Jeroen Thomas
+Projects-02_Ron Steiner
+Projects-03_Chris van Duijn
+Projects-04_Frans Blok
+Projects-05_Shohei Shigematsu
+Projects-06_Reinier de Graaf
+Projects-07_Xaveer de Geyter
+Projects-08_Floris Alkemade
+Projects-09_Fernando Donis
+Projects-10_Dan Wood
